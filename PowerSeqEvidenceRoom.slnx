@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/PowerSeq.Core.Tests/PowerSeq.Core.Tests.csproj" />
+  </Folder>
+</Solution>
