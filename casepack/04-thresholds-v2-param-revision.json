@@ -1,0 +1,9 @@
+{
+  "kind": "thresholds",
+  "label": "阈值 v2（参数修订）：仅 VDD_CORE 下降阈值 0.9V→0.85V，其余不变",
+  "rails": {
+    "VCC_3V3":  { "rise": "3.0V",  "fall": "2.7V",  "minStable": "1ms" },
+    "VCC_1V8":  { "rise": "1.6V",  "fall": "1.4V",  "minStable": "1ms" },
+    "VDD_CORE": { "rise": "1.05V", "fall": "0.85V", "minStable": "1ms" }
+  }
+}

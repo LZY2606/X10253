@@ -1,0 +1,10 @@
+{
+  "kind": "decision-script",
+  "label": "人工决定演练：先互相冲突，再解决，再撤销",
+  "steps": [
+    { "action": "decide", "verdict": "accept", "reviewer": "张工", "note": "关机逆序违约证据链完整，接受该反例", "targetKind": "first-violation" },
+    { "action": "decide", "verdict": "reject", "reviewer": "李工", "note": "认为 CORE 关断延迟在裕量内，否定该反例", "targetKind": "first-violation" },
+    { "action": "decide", "verdict": "adjust", "reviewer": "王工", "note": "复核示波器原始截图后确认违约成立，按调整后的参数重算", "targetKind": "first-violation", "resolves": "open-conflict" },
+    { "action": "undo-last-reject", "reviewer": "李工", "note": "撤回此前的否定意见" }
+  ]
+}

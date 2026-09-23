@@ -1,0 +1,8 @@
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/A/work/src/EvidenceRoom/obj/Debug/net10.0/EvidenceRoom.csproj.AssemblyReference.cache
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/A/work/src/EvidenceRoom/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/A/work/src/EvidenceRoom/obj/Debug/net10.0/EvidenceRoom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/A/work/src/EvidenceRoom/obj/Debug/net10.0/EvidenceRoom.AssemblyInfoInputs.cache
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/A/work/src/EvidenceRoom/obj/Debug/net10.0/EvidenceRoom.AssemblyInfo.cs
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/A/work/src/EvidenceRoom/obj/Debug/net10.0/EvidenceRoom.csproj.CoreCompileInputs.cache
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/A/work/src/EvidenceRoom/obj/Debug/net10.0/EvidenceRoom.MvcApplicationPartsAssemblyInfo.cache
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/A/work/src/EvidenceRoom/obj/Debug/net10.0/EvidenceRoom.sourcelink.json

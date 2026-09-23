@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AAOK/oM7urQ=",
+  "success": true,
+  "projectFilePath": "/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/A/work/src/EvidenceRoom/EvidenceRoom.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.data.sqlite/9.0.9/microsoft.data.sqlite.9.0.9.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.data.sqlite.core/9.0.9/microsoft.data.sqlite.core.9.0.9.nupkg.sha512",
+    "/Users/mac/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.13/sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
+    "/Users/mac/.nuget/packages/sqlitepclraw.core/2.1.13/sqlitepclraw.core.2.1.13.nupkg.sha512",
+    "/Users/mac/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.13/sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
+    "/Users/mac/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.13/sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+{
+  "kind": "thresholds",
+  "label": "阈值 v1：上升/下降分离，滞回=rise-fall，最小稳定 1ms",
+  "rails": {
+    "VCC_3V3":  { "rise": "3.0V",  "fall": "2.7V",  "minStable": "1ms" },
+    "VCC_1V8":  { "rise": "1.6V",  "fall": "1.4V",  "minStable": "1ms" },
+    "VDD_CORE": { "rise": "1.05V", "fall": "0.9V",  "minStable": "1ms" }
+  }
+}

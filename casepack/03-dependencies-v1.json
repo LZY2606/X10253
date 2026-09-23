@@ -1,0 +1,8 @@
+{
+  "kind": "dependencies",
+  "label": "依赖 v1：3V3→1V8→CORE，最小间隔 1ms，启动/关机均受约束",
+  "edges": [
+    { "from": "VCC_3V3", "to": "VCC_1V8",  "minDelay": "1ms", "phase": "both" },
+    { "from": "VCC_1V8", "to": "VDD_CORE", "minDelay": "1ms", "phase": "both" }
+  ]
+}

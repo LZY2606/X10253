@@ -1,0 +1,9 @@
+{
+  "kind": "dependencies",
+  "label": "依赖 v2（引入循环）：追加 CORE→3V3 复位握手边，构成 3V3→1V8→CORE→3V3",
+  "edges": [
+    { "from": "VCC_3V3", "to": "VCC_1V8",  "minDelay": "1ms", "phase": "both" },
+    { "from": "VCC_1V8", "to": "VDD_CORE", "minDelay": "1ms", "phase": "both" },
+    { "from": "VDD_CORE", "to": "VCC_3V3", "minDelay": "0ms", "phase": "startup" }
+  ]
+}
