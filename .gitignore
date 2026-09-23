@@ -34,3 +34,8 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+bin/
+obj/
+*.db
+*.db-journal
+powerseq.db*
