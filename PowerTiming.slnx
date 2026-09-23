@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PowerTiming.Core/PowerTiming.Core.csproj" />
+    <Project Path="src/PowerTiming.Web/PowerTiming.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PowerTiming.Tests/PowerTiming.Tests.csproj" />
+  </Folder>
+</Solution>
