@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/PowerSequencer.Tests/PowerSequencer.Tests.csproj" />
+  </Folder>
+  <Project Path="PowerSequencer.csproj" />
+</Solution>
