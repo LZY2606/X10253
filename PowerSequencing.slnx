@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PowerSequencing.Core/PowerSequencing.Core.csproj" />
+  </Folder>
+</Solution>
