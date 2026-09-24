@@ -34,3 +34,9 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+
+# --- .NET ---
+bin/
+obj/
+*.db
+*.db-journal

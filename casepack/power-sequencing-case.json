@@ -1,0 +1,6657 @@
+{
+  "format": "powerseq-archive/1",
+  "project": "power-sequencing-evidence-room",
+  "exportedUtc": "2026-09-01T09:10:00.0000000\u002B00:00",
+  "events": [
+    {
+      "seq": 1,
+      "id": "ev-000001",
+      "type": "input.imported",
+      "payload": {
+        "streamId": "wf-85b9a49112f8",
+        "kind": "voltage",
+        "data": {
+          "rail": "VDD_CORE",
+          "signalKind": "voltage",
+          "samples": [
+            {
+              "time": {
+                "value": 0,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 5,
+                "unit": "us"
+              },
+              "value": {
+                "value": 50,
+                "unit": "counts"
+              }
+            },
+            {
+              "time": {
+                "value": 10,
+                "unit": "us"
+              },
+              "value": {
+                "value": 112.5,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 20,
+                "unit": "us"
+              },
+              "value": {
+                "value": 225,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 30,
+                "unit": "us"
+              },
+              "value": {
+                "value": 337.5,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 70,
+                "unit": "us"
+              },
+              "value": {
+                "value": 787.5,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 80,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 90,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 100,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 110,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 120,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 130,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 140,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 150,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 160,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 170,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 180,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 190,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 200,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 210,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 220,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 230,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 240,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 250,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 260,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 270,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 280,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 290,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 300,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 310,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 320,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 330,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 340,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 350,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 360,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 370,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 380,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 390,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 400,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 410,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 420,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 430,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 440,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 450,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 460,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 470,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 480,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 490,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 500,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 510,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 520,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 530,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 540,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 550,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 560,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 570,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 580,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 590,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 600,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 610,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 620,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 630,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 640,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 650,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 660,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 670,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 680,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 690,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 700,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 710,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 720,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 730,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 740,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 750,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 760,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 770,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 780,
+                "unit": "us"
+              },
+              "value": {
+                "value": 600,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 790,
+                "unit": "us"
+              },
+              "value": {
+                "value": 300,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 800,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 810,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 820,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 830,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 840,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 850,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 860,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 870,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 880,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            }
+          ],
+          "sampleClock": {
+            "value": 10,
+            "unit": "us"
+          },
+          "clockJitter": {
+            "value": 0.5,
+            "unit": "us"
+          },
+          "measurementError": {
+            "value": 15,
+            "unit": "mV"
+          }
+        },
+        "hash": "32cc240b4321bf6da7b524a3ffb90e9a664d917a338696c5ec63831fe6ebc80f"
+      },
+      "createdUtc": "2026-09-01T09:00:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 2,
+      "id": "ev-000002",
+      "type": "input.imported",
+      "payload": {
+        "streamId": "wf-f06f612e31f5",
+        "kind": "voltage",
+        "data": {
+          "rail": "VDD_IO",
+          "signalKind": "voltage",
+          "samples": [
+            {
+              "time": {
+                "value": 0,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 10,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0.45,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 20,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0.9,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 30,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.35,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 40,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 50,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 60,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.68,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 70,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.66,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 80,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.69,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 90,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 100,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 110,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 120,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 130,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 140,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 150,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 160,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 170,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 180,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 190,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 200,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 210,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 220,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 230,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 240,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 250,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 260,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 270,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 280,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 290,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 300,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 310,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 320,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 330,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 340,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 350,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 360,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 370,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 380,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 390,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 400,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.5,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 410,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 420,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 430,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 440,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 450,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 460,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 470,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 480,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 490,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 500,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 510,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 520,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 530,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 540,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 550,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 560,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 570,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 580,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 590,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 600,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 610,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 620,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 630,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 640,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 650,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 660,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 670,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 680,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 690,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 700,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 710,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 720,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 730,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 740,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 750,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 760,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 770,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 780,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 790,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 800,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 810,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 820,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 830,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 840,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 850,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.2000000000000002,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 860,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0.6000000000000001,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 870,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 880,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            }
+          ],
+          "sampleClock": {
+            "value": 10,
+            "unit": "us"
+          },
+          "clockJitter": {
+            "value": 0.5,
+            "unit": "us"
+          },
+          "measurementError": {
+            "value": 15,
+            "unit": "mV"
+          }
+        },
+        "hash": "49da34d80fd77fac44ef9c72d3a191b4ae9747ee956159fc66e30f1304b34b75"
+      },
+      "createdUtc": "2026-09-01T09:01:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 3,
+      "id": "ev-000003",
+      "type": "input.imported",
+      "payload": {
+        "streamId": "wf-e16bb635ab4d",
+        "kind": "voltage",
+        "data": {
+          "rail": "VDD_AUX",
+          "signalKind": "voltage",
+          "samples": [
+            {
+              "time": {
+                "value": 0,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 10,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 20,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 30,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 40,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 50,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 60,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 70,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0.55,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 80,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.1,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 90,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.65,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 100,
+                "unit": "us"
+              },
+              "value": {
+                "value": 2.2,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 110,
+                "unit": "us"
+              },
+              "value": {
+                "value": 2.75,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 120,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 130,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 140,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 150,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 160,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 170,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 180,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 190,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 200,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 210,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 220,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 230,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 240,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 250,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 260,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 270,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 280,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 290,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 300,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 310,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 320,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 330,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 340,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 350,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 360,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 370,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 380,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 390,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 400,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 410,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 420,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 430,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 440,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 450,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 460,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 470,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 480,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 490,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 500,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 510,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 520,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 530,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 540,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 550,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 560,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 570,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 580,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 590,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 600,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 610,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 620,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 630,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 640,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 650,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 660,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 670,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 680,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 690,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 700,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 710,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 720,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 730,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 740,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 750,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 760,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 770,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 780,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 790,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 800,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 810,
+                "unit": "us"
+              },
+              "value": {
+                "value": 3.3,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 820,
+                "unit": "us"
+              },
+              "value": {
+                "value": 2.1999999999999997,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 830,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.0999999999999996,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 840,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 850,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 860,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 870,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 880,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            }
+          ],
+          "sampleClock": {
+            "value": 10,
+            "unit": "us"
+          },
+          "clockJitter": {
+            "value": 0.5,
+            "unit": "us"
+          },
+          "measurementError": {
+            "value": 15,
+            "unit": "mV"
+          }
+        },
+        "hash": "910937073095bb59c824755df4dd474182ea4fadf03d9e760cb37274abbafa34"
+      },
+      "createdUtc": "2026-09-01T09:02:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 4,
+      "id": "ev-000004",
+      "type": "input.imported",
+      "payload": {
+        "streamId": "wf-db03922a6d4e",
+        "kind": "enable",
+        "data": {
+          "rail": "EN_IO",
+          "signalKind": "enable",
+          "samples": [
+            {
+              "time": {
+                "value": 0,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 5,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 10,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 15,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 20,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 25,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 30,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 35,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 40,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 45,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 50,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 55,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 60,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 65,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 70,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 75,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 80,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 85,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 90,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 95,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 100,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 105,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 110,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 115,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 120,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 125,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 130,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 135,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 140,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 145,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 150,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 155,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 160,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 165,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 170,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 175,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 180,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 185,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 190,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 195,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 200,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            }
+          ],
+          "sampleClock": {
+            "value": 5,
+            "unit": "us"
+          },
+          "clockJitter": {
+            "value": 0.5,
+            "unit": "us"
+          },
+          "measurementError": {
+            "value": 10,
+            "unit": "mV"
+          }
+        },
+        "hash": "200c4bc7f1abc1190c645ac818f67c9a7a19337de5e4bb91af28e55fe78fcbcd"
+      },
+      "createdUtc": "2026-09-01T09:03:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 5,
+      "id": "ev-000005",
+      "type": "input.imported",
+      "payload": {
+        "streamId": "wf-b7b1b56ce5d4",
+        "kind": "good",
+        "data": {
+          "rail": "PG_CORE",
+          "signalKind": "good",
+          "samples": [
+            {
+              "time": {
+                "value": 0,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 5,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 10,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 15,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 20,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 25,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 30,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 35,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 40,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 45,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 50,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 55,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 60,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 65,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 70,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 75,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 80,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 85,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 90,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 95,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 100,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 105,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 110,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 115,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 120,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 125,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 130,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 135,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 140,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 145,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 150,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 155,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 160,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 165,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 170,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 175,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 180,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 185,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 190,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 195,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            },
+            {
+              "time": {
+                "value": 200,
+                "unit": "us"
+              },
+              "value": {
+                "value": 1.8,
+                "unit": "V"
+              }
+            }
+          ],
+          "sampleClock": {
+            "value": 5,
+            "unit": "us"
+          },
+          "clockJitter": {
+            "value": 0.5,
+            "unit": "us"
+          },
+          "measurementError": {
+            "value": 10,
+            "unit": "mV"
+          }
+        },
+        "hash": "2c715adc8c03a34db7e98d10bb080ce05f43b6c70813cb69390dfc276452dcb6"
+      },
+      "createdUtc": "2026-09-01T09:04:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 6,
+      "id": "ev-000006",
+      "type": "constraints.created",
+      "payload": {
+        "id": "cs-seq",
+        "parentVersion": null,
+        "data": {
+          "rails": [
+            {
+              "rail": "VDD_CORE",
+              "riseThreshold": {
+                "value": 810,
+                "unit": "mV"
+              },
+              "fallThreshold": {
+                "value": 720,
+                "unit": "mV"
+              },
+              "hysteresis": {
+                "value": 20,
+                "unit": "mV"
+              },
+              "minStableTime": {
+                "value": 50,
+                "unit": "us"
+              }
+            },
+            {
+              "rail": "VDD_IO",
+              "riseThreshold": {
+                "value": 1.71,
+                "unit": "V"
+              },
+              "fallThreshold": {
+                "value": 1.62,
+                "unit": "V"
+              },
+              "hysteresis": {
+                "value": 20,
+                "unit": "mV"
+              },
+              "minStableTime": {
+                "value": 50,
+                "unit": "us"
+              }
+            },
+            {
+              "rail": "VDD_AUX",
+              "riseThreshold": {
+                "value": 3.135,
+                "unit": "V"
+              },
+              "fallThreshold": {
+                "value": 2.97,
+                "unit": "V"
+              },
+              "hysteresis": {
+                "value": 30,
+                "unit": "mV"
+              },
+              "minStableTime": {
+                "value": 50,
+                "unit": "us"
+              }
+            },
+            {
+              "rail": "EN_IO",
+              "riseThreshold": {
+                "value": 0.9,
+                "unit": "V"
+              },
+              "fallThreshold": {
+                "value": 0.45,
+                "unit": "V"
+              },
+              "hysteresis": {
+                "value": 100,
+                "unit": "mV"
+              },
+              "minStableTime": {
+                "value": 20,
+                "unit": "us"
+              }
+            },
+            {
+              "rail": "PG_CORE",
+              "riseThreshold": {
+                "value": 0.9,
+                "unit": "V"
+              },
+              "fallThreshold": {
+                "value": 0.45,
+                "unit": "V"
+              },
+              "hysteresis": {
+                "value": 100,
+                "unit": "mV"
+              },
+              "minStableTime": {
+                "value": 20,
+                "unit": "us"
+              }
+            }
+          ],
+          "edges": [
+            {
+              "from": "VDD_CORE",
+              "to": "VDD_IO",
+              "kind": "requires-good-before-enable",
+              "maxDelay": null
+            },
+            {
+              "from": "VDD_IO",
+              "to": "VDD_AUX",
+              "kind": "requires-good-before-enable",
+              "maxDelay": null
+            },
+            {
+              "from": "VDD_AUX",
+              "to": "VDD_CORE",
+              "kind": "requires-good-before-enable",
+              "maxDelay": null
+            },
+            {
+              "from": "PG_CORE",
+              "to": "EN_IO",
+              "kind": "requires-good-before-enable",
+              "maxDelay": null
+            }
+          ]
+        },
+        "fingerprint": "d99f45cb854329ff9d55de62b92f443bfc67c037c42838d0a983ecc141d91823"
+      },
+      "createdUtc": "2026-09-01T09:05:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 7,
+      "id": "ev-000007",
+      "type": "analysis.computed",
+      "payload": {
+        "results": [
+          {
+            "rail": "VDD_CORE",
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "71b3d4953c123185df62d91be404ea5a7b3391245babe8c25aecaa88dc8ff707",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-85b9a49112f8",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_CORE",
+                "version": 1
+              }
+            ],
+            "windows": [
+              {
+                "rail": "VDD_CORE",
+                "state": 0,
+                "tStart": 0,
+                "tEnd": 2.9999999999999997E-05,
+                "certain": true,
+                "reason": "before-clock-gap"
+              },
+              {
+                "rail": "VDD_CORE",
+                "state": 2,
+                "tStart": 2.9999999999999997E-05,
+                "tEnd": 7E-05,
+                "certain": false,
+                "reason": "clock-gap: dt=3.9999999999999996E-05s exceeds period\u002Bjitter=1.05E-05s"
+              },
+              {
+                "rail": "VDD_CORE",
+                "state": 0,
+                "tStart": 7E-05,
+                "tEnd": 7.999999999999999E-05,
+                "certain": true,
+                "reason": "threshold-crossing"
+              },
+              {
+                "rail": "VDD_CORE",
+                "state": 1,
+                "tStart": 7.999999999999999E-05,
+                "tEnd": 0.00078,
+                "certain": true,
+                "reason": "threshold-crossing;violation"
+              },
+              {
+                "rail": "VDD_CORE",
+                "state": 0,
+                "tStart": 0.00078,
+                "tEnd": 0.0008799999999999999,
+                "certain": true,
+                "reason": "end-of-capture"
+              }
+            ],
+            "excursions": [
+              {
+                "rail": "VDD_CORE",
+                "direction": "spike",
+                "tStart": 7.999999999999999E-05,
+                "tEnd": 0.00078,
+                "duration": 0.0007,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 0.0007s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s"
+              },
+              {
+                "rail": "VDD_CORE",
+                "direction": "dip",
+                "tStart": 0.00078,
+                "tEnd": 0.0008799999999999999,
+                "duration": 9.999999999999994E-05,
+                "classification": "unknown",
+                "candidates": [
+                  "glitch",
+                  "violation"
+                ],
+                "reason": "excursion still open at end of capture; duration unknown"
+              }
+            ],
+            "diagnostics": [
+              {
+                "code": "unconvertible-sample",
+                "message": "value kept raw \u002750 counts\u0027: unknown-voltage-unit:counts",
+                "rail": "VDD_CORE",
+                "at": null
+              },
+              {
+                "code": "clock-gap",
+                "message": "gap of 3.9999999999999996E-05s between samples",
+                "rail": "VDD_CORE",
+                "at": 2.9999999999999997E-05
+              },
+              {
+                "code": "unterminated-excursion",
+                "message": "capture ends inside an excursion",
+                "rail": "VDD_CORE",
+                "at": 0.00078
+              }
+            ],
+            "id": "res-rail-1314018407d1190a",
+            "kind": "rail-analysis",
+            "status": "current"
+          },
+          {
+            "rail": "VDD_IO",
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "43ee5dbcf85fa700be5d6390bd639bdab827ebdf87ccfd3bbe5f167685d5bb94",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-f06f612e31f5",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_IO",
+                "version": 1
+              }
+            ],
+            "windows": [
+              {
+                "rail": "VDD_IO",
+                "state": 0,
+                "tStart": 0,
+                "tEnd": 3.9999999999999996E-05,
+                "certain": true,
+                "reason": "threshold-crossing"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 1,
+                "tStart": 3.9999999999999996E-05,
+                "tEnd": 0.00013,
+                "certain": true,
+                "reason": "threshold-crossing;violation;glitch-merged"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 1,
+                "tStart": 0.00013,
+                "tEnd": 0.00020999999999999998,
+                "certain": true,
+                "reason": "threshold-crossing;violation"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 0,
+                "tStart": 0.00020999999999999998,
+                "tEnd": 0.00026,
+                "certain": false,
+                "reason": "threshold-crossing;ambiguous"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 1,
+                "tStart": 0.00026,
+                "tEnd": 0.00031,
+                "certain": false,
+                "reason": "threshold-crossing;ambiguous"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 0,
+                "tStart": 0.00031,
+                "tEnd": 0.00041,
+                "certain": true,
+                "reason": "threshold-crossing;violation"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 1,
+                "tStart": 0.00041,
+                "tEnd": 0.00085,
+                "certain": true,
+                "reason": "threshold-crossing;violation"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 0,
+                "tStart": 0.00085,
+                "tEnd": 0.0008799999999999999,
+                "certain": true,
+                "reason": "end-of-capture"
+              }
+            ],
+            "excursions": [
+              {
+                "rail": "VDD_IO",
+                "direction": "spike",
+                "tStart": 3.9999999999999996E-05,
+                "tEnd": 0.00010999999999999999,
+                "duration": 7E-05,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 7E-05s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "dip",
+                "tStart": 0.00010999999999999999,
+                "tEnd": 0.00013,
+                "duration": 1.9999999999999998E-05,
+                "classification": "glitch",
+                "candidates": [
+                  "glitch"
+                ],
+                "reason": "duration 1.9999999999999998E-05s \u002B timing error 1.05E-05s \u003C min stable 4.9999999999999996E-05s"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "spike",
+                "tStart": 0.00013,
+                "tEnd": 0.00020999999999999998,
+                "duration": 7.999999999999999E-05,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 7.999999999999999E-05s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "dip",
+                "tStart": 0.00020999999999999998,
+                "tEnd": 0.00026,
+                "duration": 4.9999999999999996E-05,
+                "classification": "ambiguous",
+                "candidates": [
+                  "glitch",
+                  "violation"
+                ],
+                "reason": "duration 4.9999999999999996E-05s within timing error 1.05E-05s of min stable 4.9999999999999996E-05s; cannot decide uniquely"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "spike",
+                "tStart": 0.00026,
+                "tEnd": 0.00031,
+                "duration": 5.000000000000002E-05,
+                "classification": "ambiguous",
+                "candidates": [
+                  "glitch",
+                  "violation"
+                ],
+                "reason": "duration 5.000000000000002E-05s within timing error 1.05E-05s of min stable 4.9999999999999996E-05s; cannot decide uniquely"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "dip",
+                "tStart": 0.00031,
+                "tEnd": 0.00041,
+                "duration": 9.999999999999999E-05,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 9.999999999999999E-05s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "spike",
+                "tStart": 0.00041,
+                "tEnd": 0.00085,
+                "duration": 0.00043999999999999996,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 0.00043999999999999996s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "dip",
+                "tStart": 0.00085,
+                "tEnd": 0.0008799999999999999,
+                "duration": 2.999999999999997E-05,
+                "classification": "unknown",
+                "candidates": [
+                  "glitch",
+                  "violation"
+                ],
+                "reason": "excursion still open at end of capture; duration unknown"
+              }
+            ],
+            "diagnostics": [
+              {
+                "code": "unterminated-excursion",
+                "message": "capture ends inside an excursion",
+                "rail": "VDD_IO",
+                "at": 0.00085
+              }
+            ],
+            "id": "res-rail-531b9649bd6fb44e",
+            "kind": "rail-analysis",
+            "status": "current"
+          },
+          {
+            "rail": "VDD_AUX",
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "7e04edeeb23bc7972b3d8e7bd8aea345b82f66e3748bf5cfa9d83412b55bbf64",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-e16bb635ab4d",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_AUX",
+                "version": 1
+              }
+            ],
+            "windows": [
+              {
+                "rail": "VDD_AUX",
+                "state": 0,
+                "tStart": 0,
+                "tEnd": 0.00011999999999999999,
+                "certain": true,
+                "reason": "threshold-crossing"
+              },
+              {
+                "rail": "VDD_AUX",
+                "state": 1,
+                "tStart": 0.00011999999999999999,
+                "tEnd": 0.00082,
+                "certain": true,
+                "reason": "threshold-crossing;violation"
+              },
+              {
+                "rail": "VDD_AUX",
+                "state": 0,
+                "tStart": 0.00082,
+                "tEnd": 0.0008799999999999999,
+                "certain": true,
+                "reason": "end-of-capture"
+              }
+            ],
+            "excursions": [
+              {
+                "rail": "VDD_AUX",
+                "direction": "spike",
+                "tStart": 0.00011999999999999999,
+                "tEnd": 0.00082,
+                "duration": 0.0007,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 0.0007s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s"
+              },
+              {
+                "rail": "VDD_AUX",
+                "direction": "dip",
+                "tStart": 0.00082,
+                "tEnd": 0.0008799999999999999,
+                "duration": 5.999999999999994E-05,
+                "classification": "unknown",
+                "candidates": [
+                  "glitch",
+                  "violation"
+                ],
+                "reason": "excursion still open at end of capture; duration unknown"
+              }
+            ],
+            "diagnostics": [
+              {
+                "code": "unterminated-excursion",
+                "message": "capture ends inside an excursion",
+                "rail": "VDD_AUX",
+                "at": 0.00082
+              }
+            ],
+            "id": "res-rail-4a9cf255aac819f7",
+            "kind": "rail-analysis",
+            "status": "current"
+          },
+          {
+            "rail": "EN_IO",
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "a96820ddcdbee4cbf455abcc5bb05ff7c7d6ab32fa657baebbe5788b78eafc26",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-db03922a6d4e",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:EN_IO",
+                "version": 1
+              }
+            ],
+            "windows": [
+              {
+                "rail": "EN_IO",
+                "state": 0,
+                "tStart": 0,
+                "tEnd": 4.9999999999999996E-05,
+                "certain": true,
+                "reason": "threshold-crossing"
+              },
+              {
+                "rail": "EN_IO",
+                "state": 1,
+                "tStart": 4.9999999999999996E-05,
+                "tEnd": 0.00019999999999999998,
+                "certain": true,
+                "reason": "end-of-capture"
+              }
+            ],
+            "excursions": [
+              {
+                "rail": "EN_IO",
+                "direction": "spike",
+                "tStart": 4.9999999999999996E-05,
+                "tEnd": 0.00019999999999999998,
+                "duration": 0.00015,
+                "classification": "unknown",
+                "candidates": [
+                  "glitch",
+                  "violation"
+                ],
+                "reason": "excursion still open at end of capture; duration unknown"
+              }
+            ],
+            "diagnostics": [
+              {
+                "code": "unterminated-excursion",
+                "message": "capture ends inside an excursion",
+                "rail": "EN_IO",
+                "at": 4.9999999999999996E-05
+              }
+            ],
+            "id": "res-rail-b50ec94f02ea3ad1",
+            "kind": "rail-analysis",
+            "status": "current"
+          },
+          {
+            "rail": "PG_CORE",
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "2173cae125fa3e49a48600891cba818990e97fca6fb10fd9005e925feb2f9eb5",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-b7b1b56ce5d4",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:PG_CORE",
+                "version": 1
+              }
+            ],
+            "windows": [
+              {
+                "rail": "PG_CORE",
+                "state": 0,
+                "tStart": 0,
+                "tEnd": 4.4999999999999996E-05,
+                "certain": true,
+                "reason": "threshold-crossing"
+              },
+              {
+                "rail": "PG_CORE",
+                "state": 1,
+                "tStart": 4.4999999999999996E-05,
+                "tEnd": 0.00019999999999999998,
+                "certain": true,
+                "reason": "end-of-capture"
+              }
+            ],
+            "excursions": [
+              {
+                "rail": "PG_CORE",
+                "direction": "spike",
+                "tStart": 4.4999999999999996E-05,
+                "tEnd": 0.00019999999999999998,
+                "duration": 0.00015499999999999997,
+                "classification": "unknown",
+                "candidates": [
+                  "glitch",
+                  "violation"
+                ],
+                "reason": "excursion still open at end of capture; duration unknown"
+              }
+            ],
+            "diagnostics": [
+              {
+                "code": "unterminated-excursion",
+                "message": "capture ends inside an excursion",
+                "rail": "PG_CORE",
+                "at": 4.4999999999999996E-05
+              }
+            ],
+            "id": "res-rail-1d3d88870fd215d2",
+            "kind": "rail-analysis",
+            "status": "current"
+          },
+          {
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "3db5294b2b0b45a2aebd231d35415cc2e42f76c7907b4b7f71bb28974e9bec9f",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-85b9a49112f8",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-f06f612e31f5",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-e16bb635ab4d",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-db03922a6d4e",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-b7b1b56ce5d4",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_CORE",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_IO",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_AUX",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:EN_IO",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:PG_CORE",
+                "version": 1
+              }
+            ],
+            "startup": [
+              {
+                "rails": [
+                  "VDD_IO"
+                ],
+                "time": 3.9999999999999996E-05,
+                "basis": "first rise above effective rise threshold"
+              },
+              {
+                "rails": [
+                  "VDD_CORE"
+                ],
+                "time": 7.999999999999999E-05,
+                "basis": "first rise above effective rise threshold"
+              },
+              {
+                "rails": [
+                  "VDD_AUX"
+                ],
+                "time": 0.00011999999999999999,
+                "basis": "first rise above effective rise threshold"
+              }
+            ],
+            "shutdown": [
+              {
+                "rails": [
+                  "VDD_IO"
+                ],
+                "time": 0.00020999999999999998,
+                "basis": "first fall below effective fall threshold"
+              },
+              {
+                "rails": [
+                  "VDD_CORE"
+                ],
+                "time": 0.00078,
+                "basis": "first fall below effective fall threshold"
+              },
+              {
+                "rails": [
+                  "VDD_AUX"
+                ],
+                "time": 0.00082,
+                "basis": "first fall below effective fall threshold"
+              }
+            ],
+            "startupCandidates": [
+              [
+                "VDD_IO",
+                "VDD_CORE",
+                "VDD_AUX"
+              ]
+            ],
+            "mismatches": [
+              {
+                "index": 0,
+                "expected": [
+                  "VDD_AUX",
+                  "VDD_CORE",
+                  "VDD_IO"
+                ],
+                "actual": [
+                  "VDD_IO",
+                  "VDD_CORE",
+                  "VDD_AUX"
+                ],
+                "at": 0.00020999999999999998,
+                "reason": "shutdown must be reverse of startup; position 0: expected VDD_AUX, got VDD_IO"
+              }
+            ],
+            "diagnostics": [],
+            "id": "res-seq-01d10dfe1beb708e",
+            "kind": "sequence-analysis",
+            "rail": null,
+            "status": "current"
+          },
+          {
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "876edd35743f800360c8d57c18630ab6f5f50a648f316d4e181003cd6666f903",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-85b9a49112f8",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-f06f612e31f5",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-e16bb635ab4d",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-db03922a6d4e",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-b7b1b56ce5d4",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_CORE",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_IO",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_AUX",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:EN_IO",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:PG_CORE",
+                "version": 1
+              }
+            ],
+            "verdicts": [
+              {
+                "edge": {
+                  "from": "VDD_CORE",
+                  "to": "VDD_IO",
+                  "kind": "requires-good-before-enable",
+                  "maxDelay": null
+                },
+                "verdict": "violated",
+                "at": 3.9999999999999996E-05,
+                "reason": "VDD_IO enabled 3.9999999999999996E-05s before VDD_CORE was good"
+              },
+              {
+                "edge": {
+                  "from": "VDD_IO",
+                  "to": "VDD_AUX",
+                  "kind": "requires-good-before-enable",
+                  "maxDelay": null
+                },
+                "verdict": "satisfied",
+                "at": 0.00011999999999999999,
+                "reason": "VDD_IO good 7.999999999999999E-05s before VDD_AUX enable"
+              },
+              {
+                "edge": {
+                  "from": "VDD_AUX",
+                  "to": "VDD_CORE",
+                  "kind": "requires-good-before-enable",
+                  "maxDelay": null
+                },
+                "verdict": "violated",
+                "at": 7.999999999999999E-05,
+                "reason": "VDD_CORE enabled 3.9999999999999996E-05s before VDD_AUX was good"
+              },
+              {
+                "edge": {
+                  "from": "PG_CORE",
+                  "to": "EN_IO",
+                  "kind": "requires-good-before-enable",
+                  "maxDelay": null
+                },
+                "verdict": "ambiguous",
+                "at": 4.9999999999999996E-05,
+                "reason": "simultaneous arrival within tolerance 1.1E-05s; order undecidable"
+              }
+            ],
+            "cycles": {
+              "minimalEdgeSets": [
+                [
+                  {
+                    "from": "VDD_CORE",
+                    "to": "VDD_IO",
+                    "kind": "requires-good-before-enable",
+                    "maxDelay": null
+                  }
+                ],
+                [
+                  {
+                    "from": "VDD_IO",
+                    "to": "VDD_AUX",
+                    "kind": "requires-good-before-enable",
+                    "maxDelay": null
+                  }
+                ],
+                [
+                  {
+                    "from": "VDD_AUX",
+                    "to": "VDD_CORE",
+                    "kind": "requires-good-before-enable",
+                    "maxDelay": null
+                  }
+                ]
+              ],
+              "reason": "3 minimal conflicting edge sets of size 1; all kept as candidates"
+            },
+            "diagnostics": [],
+            "id": "res-graph-14d3f5edf0b9433c",
+            "kind": "graph-analysis",
+            "rail": null,
+            "status": "current"
+          },
+          {
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "af91ba272b121e7c93614588e3b9e5468d0c68d0c1590f41ef9825e26a275550",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-85b9a49112f8",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-f06f612e31f5",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-e16bb635ab4d",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-db03922a6d4e",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-b7b1b56ce5d4",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_CORE",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_IO",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_AUX",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:EN_IO",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:PG_CORE",
+                "version": 1
+              }
+            ],
+            "violation": {
+              "at": 3.9999999999999996E-05,
+              "kind": "excursion",
+              "description": "VDD_IO spike violation: duration 7E-05s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s",
+              "evidenceResultId": "res-rail-531b9649bd6fb44e",
+              "sources": [
+                {
+                  "kind": "waveform",
+                  "id": "wf-f06f612e31f5",
+                  "version": 1
+                },
+                {
+                  "kind": "constraints",
+                  "id": "cs-seq:VDD_IO",
+                  "version": 1
+                }
+              ]
+            },
+            "considered": [
+              "VDD_CORE spike violation: duration 0.0007s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s",
+              "VDD_IO spike violation: duration 7E-05s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s",
+              "VDD_IO spike violation: duration 7.999999999999999E-05s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s",
+              "VDD_IO dip violation: duration 9.999999999999999E-05s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s",
+              "VDD_IO spike violation: duration 0.00043999999999999996s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s",
+              "VDD_AUX spike violation: duration 0.0007s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s",
+              "edge VDD_CORE-\u003EVDD_IO violated: VDD_IO enabled 3.9999999999999996E-05s before VDD_CORE was good",
+              "edge VDD_AUX-\u003EVDD_CORE violated: VDD_CORE enabled 3.9999999999999996E-05s before VDD_AUX was good",
+              "shutdown must be reverse of startup; position 0: expected VDD_AUX, got VDD_IO"
+            ],
+            "id": "res-first-3b877c5d3948ee08",
+            "kind": "first-violation",
+            "rail": null,
+            "status": "current"
+          }
+        ]
+      },
+      "createdUtc": "2026-09-01T09:05:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 8,
+      "id": "ev-000008",
+      "type": "decision.made",
+      "payload": {
+        "id": "dec-5713fddc5572",
+        "target": "res-rail-531b9649bd6fb44e",
+        "action": "accept",
+        "rationale": "reviewer-A: 20us dip \u003C 50us min stable; glitch confirmed",
+        "conflictsWith": []
+      },
+      "createdUtc": "2026-09-01T09:06:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 9,
+      "id": "ev-000009",
+      "type": "constraints.created",
+      "payload": {
+        "id": "cs-seq",
+        "parentVersion": 1,
+        "data": {
+          "rails": [
+            {
+              "rail": "VDD_CORE",
+              "riseThreshold": {
+                "value": 810,
+                "unit": "mV"
+              },
+              "fallThreshold": {
+                "value": 720,
+                "unit": "mV"
+              },
+              "hysteresis": {
+                "value": 20,
+                "unit": "mV"
+              },
+              "minStableTime": {
+                "value": 50,
+                "unit": "us"
+              }
+            },
+            {
+              "rail": "VDD_IO",
+              "riseThreshold": {
+                "value": 1.7,
+                "unit": "V"
+              },
+              "fallThreshold": {
+                "value": 1.62,
+                "unit": "V"
+              },
+              "hysteresis": {
+                "value": 20,
+                "unit": "mV"
+              },
+              "minStableTime": {
+                "value": 15,
+                "unit": "us"
+              }
+            },
+            {
+              "rail": "VDD_AUX",
+              "riseThreshold": {
+                "value": 3.135,
+                "unit": "V"
+              },
+              "fallThreshold": {
+                "value": 2.97,
+                "unit": "V"
+              },
+              "hysteresis": {
+                "value": 30,
+                "unit": "mV"
+              },
+              "minStableTime": {
+                "value": 50,
+                "unit": "us"
+              }
+            },
+            {
+              "rail": "EN_IO",
+              "riseThreshold": {
+                "value": 0.9,
+                "unit": "V"
+              },
+              "fallThreshold": {
+                "value": 0.45,
+                "unit": "V"
+              },
+              "hysteresis": {
+                "value": 100,
+                "unit": "mV"
+              },
+              "minStableTime": {
+                "value": 20,
+                "unit": "us"
+              }
+            },
+            {
+              "rail": "PG_CORE",
+              "riseThreshold": {
+                "value": 0.9,
+                "unit": "V"
+              },
+              "fallThreshold": {
+                "value": 0.45,
+                "unit": "V"
+              },
+              "hysteresis": {
+                "value": 100,
+                "unit": "mV"
+              },
+              "minStableTime": {
+                "value": 20,
+                "unit": "us"
+              }
+            }
+          ],
+          "edges": [
+            {
+              "from": "VDD_CORE",
+              "to": "VDD_IO",
+              "kind": "requires-good-before-enable",
+              "maxDelay": null
+            },
+            {
+              "from": "VDD_IO",
+              "to": "VDD_AUX",
+              "kind": "requires-good-before-enable",
+              "maxDelay": null
+            },
+            {
+              "from": "VDD_AUX",
+              "to": "VDD_CORE",
+              "kind": "requires-good-before-enable",
+              "maxDelay": null
+            },
+            {
+              "from": "PG_CORE",
+              "to": "EN_IO",
+              "kind": "requires-good-before-enable",
+              "maxDelay": null
+            }
+          ]
+        },
+        "fingerprint": "b490a9faacde69034a78255382d68cc0310587ce4c47bc92d50d6023c422ac50"
+      },
+      "createdUtc": "2026-09-01T09:07:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 10,
+      "id": "ev-000010",
+      "type": "result.invalidated",
+      "payload": {
+        "ids": [
+          "res-rail-531b9649bd6fb44e",
+          "res-seq-01d10dfe1beb708e",
+          "res-graph-14d3f5edf0b9433c",
+          "res-first-3b877c5d3948ee08"
+        ],
+        "reason": "constraints cs-seq forked to v2; affected rails: VDD_IO",
+        "bySeq": 9
+      },
+      "createdUtc": "2026-09-01T09:07:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 11,
+      "id": "ev-000011",
+      "type": "analysis.computed",
+      "payload": {
+        "results": [
+          {
+            "rail": "VDD_IO",
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "33605d644f163bf612a9239078729ac7de02e2e418d27ccf10ae19c905e36209",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-f06f612e31f5",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_IO",
+                "version": 2
+              }
+            ],
+            "windows": [
+              {
+                "rail": "VDD_IO",
+                "state": 0,
+                "tStart": 0,
+                "tEnd": 3.9999999999999996E-05,
+                "certain": true,
+                "reason": "threshold-crossing"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 1,
+                "tStart": 3.9999999999999996E-05,
+                "tEnd": 0.00010999999999999999,
+                "certain": true,
+                "reason": "threshold-crossing;violation"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 0,
+                "tStart": 0.00010999999999999999,
+                "tEnd": 0.00013,
+                "certain": false,
+                "reason": "threshold-crossing;ambiguous"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 1,
+                "tStart": 0.00013,
+                "tEnd": 0.00020999999999999998,
+                "certain": true,
+                "reason": "threshold-crossing;violation"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 0,
+                "tStart": 0.00020999999999999998,
+                "tEnd": 0.00026,
+                "certain": true,
+                "reason": "threshold-crossing;violation"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 1,
+                "tStart": 0.00026,
+                "tEnd": 0.00031,
+                "certain": true,
+                "reason": "threshold-crossing;violation"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 0,
+                "tStart": 0.00031,
+                "tEnd": 0.00041,
+                "certain": true,
+                "reason": "threshold-crossing;violation"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 1,
+                "tStart": 0.00041,
+                "tEnd": 0.00085,
+                "certain": true,
+                "reason": "threshold-crossing;violation"
+              },
+              {
+                "rail": "VDD_IO",
+                "state": 0,
+                "tStart": 0.00085,
+                "tEnd": 0.0008799999999999999,
+                "certain": true,
+                "reason": "end-of-capture"
+              }
+            ],
+            "excursions": [
+              {
+                "rail": "VDD_IO",
+                "direction": "spike",
+                "tStart": 3.9999999999999996E-05,
+                "tEnd": 0.00010999999999999999,
+                "duration": 7E-05,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 7E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "dip",
+                "tStart": 0.00010999999999999999,
+                "tEnd": 0.00013,
+                "duration": 1.9999999999999998E-05,
+                "classification": "ambiguous",
+                "candidates": [
+                  "glitch",
+                  "violation"
+                ],
+                "reason": "duration 1.9999999999999998E-05s within timing error 1.05E-05s of min stable 1.4999999999999999E-05s; cannot decide uniquely"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "spike",
+                "tStart": 0.00013,
+                "tEnd": 0.00020999999999999998,
+                "duration": 7.999999999999999E-05,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 7.999999999999999E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "dip",
+                "tStart": 0.00020999999999999998,
+                "tEnd": 0.00026,
+                "duration": 4.9999999999999996E-05,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 4.9999999999999996E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "spike",
+                "tStart": 0.00026,
+                "tEnd": 0.00031,
+                "duration": 5.000000000000002E-05,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 5.000000000000002E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "dip",
+                "tStart": 0.00031,
+                "tEnd": 0.00041,
+                "duration": 9.999999999999999E-05,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 9.999999999999999E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "spike",
+                "tStart": 0.00041,
+                "tEnd": 0.00085,
+                "duration": 0.00043999999999999996,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 0.00043999999999999996s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s"
+              },
+              {
+                "rail": "VDD_IO",
+                "direction": "dip",
+                "tStart": 0.00085,
+                "tEnd": 0.0008799999999999999,
+                "duration": 2.999999999999997E-05,
+                "classification": "unknown",
+                "candidates": [
+                  "glitch",
+                  "violation"
+                ],
+                "reason": "excursion still open at end of capture; duration unknown"
+              }
+            ],
+            "diagnostics": [
+              {
+                "code": "unterminated-excursion",
+                "message": "capture ends inside an excursion",
+                "rail": "VDD_IO",
+                "at": 0.00085
+              }
+            ],
+            "id": "res-rail-a48c0f185fab23d8",
+            "kind": "rail-analysis",
+            "status": "current"
+          },
+          {
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "cdc2cfeda612f07c355a5de8c77ea3b0ff9c97cc51dc7ca0155dad1c3fdf182a",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-85b9a49112f8",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-f06f612e31f5",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-e16bb635ab4d",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-db03922a6d4e",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-b7b1b56ce5d4",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_CORE",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_IO",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_AUX",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:EN_IO",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:PG_CORE",
+                "version": 2
+              }
+            ],
+            "startup": [
+              {
+                "rails": [
+                  "VDD_IO"
+                ],
+                "time": 3.9999999999999996E-05,
+                "basis": "first rise above effective rise threshold"
+              },
+              {
+                "rails": [
+                  "VDD_CORE"
+                ],
+                "time": 7.999999999999999E-05,
+                "basis": "first rise above effective rise threshold"
+              },
+              {
+                "rails": [
+                  "VDD_AUX"
+                ],
+                "time": 0.00011999999999999999,
+                "basis": "first rise above effective rise threshold"
+              }
+            ],
+            "shutdown": [
+              {
+                "rails": [
+                  "VDD_IO"
+                ],
+                "time": 0.00010999999999999999,
+                "basis": "first fall below effective fall threshold"
+              },
+              {
+                "rails": [
+                  "VDD_CORE"
+                ],
+                "time": 0.00078,
+                "basis": "first fall below effective fall threshold"
+              },
+              {
+                "rails": [
+                  "VDD_AUX"
+                ],
+                "time": 0.00082,
+                "basis": "first fall below effective fall threshold"
+              }
+            ],
+            "startupCandidates": [
+              [
+                "VDD_IO",
+                "VDD_CORE",
+                "VDD_AUX"
+              ]
+            ],
+            "mismatches": [
+              {
+                "index": 0,
+                "expected": [
+                  "VDD_AUX",
+                  "VDD_CORE",
+                  "VDD_IO"
+                ],
+                "actual": [
+                  "VDD_IO",
+                  "VDD_CORE",
+                  "VDD_AUX"
+                ],
+                "at": 0.00010999999999999999,
+                "reason": "shutdown must be reverse of startup; position 0: expected VDD_AUX, got VDD_IO"
+              }
+            ],
+            "diagnostics": [],
+            "id": "res-seq-b3f926a2dfe6d945",
+            "kind": "sequence-analysis",
+            "rail": null,
+            "status": "current"
+          },
+          {
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "1e9e0a3305f4ac9087673c18f77fa975777d5a381351a53453314c493b859e38",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-85b9a49112f8",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-f06f612e31f5",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-e16bb635ab4d",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-db03922a6d4e",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-b7b1b56ce5d4",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_CORE",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_IO",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_AUX",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:EN_IO",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:PG_CORE",
+                "version": 2
+              }
+            ],
+            "violation": {
+              "at": 3.9999999999999996E-05,
+              "kind": "excursion",
+              "description": "VDD_IO spike violation: duration 7E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "evidenceResultId": "res-rail-a48c0f185fab23d8",
+              "sources": [
+                {
+                  "kind": "waveform",
+                  "id": "wf-f06f612e31f5",
+                  "version": 1
+                },
+                {
+                  "kind": "constraints",
+                  "id": "cs-seq:VDD_IO",
+                  "version": 2
+                }
+              ]
+            },
+            "considered": [
+              "VDD_CORE spike violation: duration 0.0007s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s",
+              "VDD_IO spike violation: duration 7E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "VDD_IO spike violation: duration 7.999999999999999E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "VDD_IO dip violation: duration 4.9999999999999996E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "VDD_IO spike violation: duration 5.000000000000002E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "VDD_IO dip violation: duration 9.999999999999999E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "VDD_IO spike violation: duration 0.00043999999999999996s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "VDD_AUX spike violation: duration 0.0007s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s",
+              "edge VDD_CORE-\u003EVDD_IO violated: VDD_IO enabled 3.9999999999999996E-05s before VDD_CORE was good",
+              "edge VDD_AUX-\u003EVDD_CORE violated: VDD_CORE enabled 3.9999999999999996E-05s before VDD_AUX was good",
+              "shutdown must be reverse of startup; position 0: expected VDD_AUX, got VDD_IO"
+            ],
+            "id": "res-first-f49c541d8d409ea5",
+            "kind": "first-violation",
+            "rail": null,
+            "status": "current"
+          }
+        ]
+      },
+      "createdUtc": "2026-09-01T09:07:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 12,
+      "id": "ev-000012",
+      "type": "result.revalidated",
+      "payload": {
+        "ids": [
+          "res-graph-14d3f5edf0b9433c"
+        ]
+      },
+      "createdUtc": "2026-09-01T09:07:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 13,
+      "id": "ev-000013",
+      "type": "input.revised",
+      "payload": {
+        "streamId": "wf-85b9a49112f8",
+        "parentVersion": 1,
+        "kind": "voltage",
+        "data": {
+          "rail": "VDD_CORE",
+          "signalKind": "voltage",
+          "samples": [
+            {
+              "time": {
+                "value": 0,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 5,
+                "unit": "us"
+              },
+              "value": {
+                "value": 50,
+                "unit": "counts"
+              }
+            },
+            {
+              "time": {
+                "value": 10,
+                "unit": "us"
+              },
+              "value": {
+                "value": 112.5,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 20,
+                "unit": "us"
+              },
+              "value": {
+                "value": 225,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 30,
+                "unit": "us"
+              },
+              "value": {
+                "value": 337.5,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 40,
+                "unit": "us"
+              },
+              "value": {
+                "value": 450,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 50,
+                "unit": "us"
+              },
+              "value": {
+                "value": 600,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 60,
+                "unit": "us"
+              },
+              "value": {
+                "value": 700,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 70,
+                "unit": "us"
+              },
+              "value": {
+                "value": 787.5,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 80,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 90,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 100,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 110,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 120,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 130,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 140,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 150,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 160,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 170,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 180,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 190,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 200,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 210,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 220,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 230,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 240,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 250,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 260,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 270,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 280,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 290,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 300,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 310,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 320,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 330,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 340,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 350,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 360,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 370,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 380,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 390,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 400,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 410,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 420,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 430,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 440,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 450,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 460,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 470,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 480,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 490,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 500,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 510,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 520,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 530,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 540,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 550,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 560,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 570,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 580,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 590,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 600,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 610,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 620,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 630,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 640,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 650,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 660,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 670,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 680,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 690,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 700,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 710,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 720,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 730,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 740,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 750,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 760,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 770,
+                "unit": "us"
+              },
+              "value": {
+                "value": 900,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 780,
+                "unit": "us"
+              },
+              "value": {
+                "value": 600,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 790,
+                "unit": "us"
+              },
+              "value": {
+                "value": 300,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 800,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 810,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 820,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 830,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 840,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 850,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 860,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 870,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            },
+            {
+              "time": {
+                "value": 880,
+                "unit": "us"
+              },
+              "value": {
+                "value": 0,
+                "unit": "mV"
+              }
+            }
+          ],
+          "sampleClock": {
+            "value": 10,
+            "unit": "us"
+          },
+          "clockJitter": {
+            "value": 0.5,
+            "unit": "us"
+          },
+          "measurementError": {
+            "value": 15,
+            "unit": "mV"
+          }
+        },
+        "hash": "54be63e1bd56ce49ca59f540a95c2b404aa90a6fadbfdf987f1d3c81e2d552d6"
+      },
+      "createdUtc": "2026-09-01T09:08:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 14,
+      "id": "ev-000014",
+      "type": "result.invalidated",
+      "payload": {
+        "ids": [
+          "res-rail-1314018407d1190a",
+          "res-graph-14d3f5edf0b9433c",
+          "res-seq-b3f926a2dfe6d945",
+          "res-first-f49c541d8d409ea5"
+        ],
+        "reason": "input wf-85b9a49112f8 revised to v2",
+        "bySeq": 13
+      },
+      "createdUtc": "2026-09-01T09:08:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 15,
+      "id": "ev-000015",
+      "type": "analysis.computed",
+      "payload": {
+        "results": [
+          {
+            "rail": "VDD_CORE",
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "71b3d4953c123185df62d91be404ea5a7b3391245babe8c25aecaa88dc8ff707",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-85b9a49112f8",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_CORE",
+                "version": 2
+              }
+            ],
+            "windows": [
+              {
+                "rail": "VDD_CORE",
+                "state": 0,
+                "tStart": 0,
+                "tEnd": 7.999999999999999E-05,
+                "certain": true,
+                "reason": "threshold-crossing"
+              },
+              {
+                "rail": "VDD_CORE",
+                "state": 1,
+                "tStart": 7.999999999999999E-05,
+                "tEnd": 0.00078,
+                "certain": true,
+                "reason": "threshold-crossing;violation"
+              },
+              {
+                "rail": "VDD_CORE",
+                "state": 0,
+                "tStart": 0.00078,
+                "tEnd": 0.0008799999999999999,
+                "certain": true,
+                "reason": "end-of-capture"
+              }
+            ],
+            "excursions": [
+              {
+                "rail": "VDD_CORE",
+                "direction": "spike",
+                "tStart": 7.999999999999999E-05,
+                "tEnd": 0.00078,
+                "duration": 0.0007,
+                "classification": "violation",
+                "candidates": [
+                  "violation"
+                ],
+                "reason": "duration 0.0007s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s"
+              },
+              {
+                "rail": "VDD_CORE",
+                "direction": "dip",
+                "tStart": 0.00078,
+                "tEnd": 0.0008799999999999999,
+                "duration": 9.999999999999994E-05,
+                "classification": "unknown",
+                "candidates": [
+                  "glitch",
+                  "violation"
+                ],
+                "reason": "excursion still open at end of capture; duration unknown"
+              }
+            ],
+            "diagnostics": [
+              {
+                "code": "unconvertible-sample",
+                "message": "value kept raw \u002750 counts\u0027: unknown-voltage-unit:counts",
+                "rail": "VDD_CORE",
+                "at": null
+              },
+              {
+                "code": "unterminated-excursion",
+                "message": "capture ends inside an excursion",
+                "rail": "VDD_CORE",
+                "at": 0.00078
+              }
+            ],
+            "id": "res-rail-7d72daaee43f87d4",
+            "kind": "rail-analysis",
+            "status": "current"
+          },
+          {
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "cdc2cfeda612f07c355a5de8c77ea3b0ff9c97cc51dc7ca0155dad1c3fdf182a",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-85b9a49112f8",
+                "version": 2
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-f06f612e31f5",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-e16bb635ab4d",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-db03922a6d4e",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-b7b1b56ce5d4",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_CORE",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_IO",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_AUX",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:EN_IO",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:PG_CORE",
+                "version": 2
+              }
+            ],
+            "startup": [
+              {
+                "rails": [
+                  "VDD_IO"
+                ],
+                "time": 3.9999999999999996E-05,
+                "basis": "first rise above effective rise threshold"
+              },
+              {
+                "rails": [
+                  "VDD_CORE"
+                ],
+                "time": 7.999999999999999E-05,
+                "basis": "first rise above effective rise threshold"
+              },
+              {
+                "rails": [
+                  "VDD_AUX"
+                ],
+                "time": 0.00011999999999999999,
+                "basis": "first rise above effective rise threshold"
+              }
+            ],
+            "shutdown": [
+              {
+                "rails": [
+                  "VDD_IO"
+                ],
+                "time": 0.00010999999999999999,
+                "basis": "first fall below effective fall threshold"
+              },
+              {
+                "rails": [
+                  "VDD_CORE"
+                ],
+                "time": 0.00078,
+                "basis": "first fall below effective fall threshold"
+              },
+              {
+                "rails": [
+                  "VDD_AUX"
+                ],
+                "time": 0.00082,
+                "basis": "first fall below effective fall threshold"
+              }
+            ],
+            "startupCandidates": [
+              [
+                "VDD_IO",
+                "VDD_CORE",
+                "VDD_AUX"
+              ]
+            ],
+            "mismatches": [
+              {
+                "index": 0,
+                "expected": [
+                  "VDD_AUX",
+                  "VDD_CORE",
+                  "VDD_IO"
+                ],
+                "actual": [
+                  "VDD_IO",
+                  "VDD_CORE",
+                  "VDD_AUX"
+                ],
+                "at": 0.00010999999999999999,
+                "reason": "shutdown must be reverse of startup; position 0: expected VDD_AUX, got VDD_IO"
+              }
+            ],
+            "diagnostics": [],
+            "id": "res-seq-77a95cdca013358d",
+            "kind": "sequence-analysis",
+            "rail": null,
+            "status": "current"
+          },
+          {
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "876edd35743f800360c8d57c18630ab6f5f50a648f316d4e181003cd6666f903",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-85b9a49112f8",
+                "version": 2
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-f06f612e31f5",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-e16bb635ab4d",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-db03922a6d4e",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-b7b1b56ce5d4",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_CORE",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_IO",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_AUX",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:EN_IO",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:PG_CORE",
+                "version": 2
+              }
+            ],
+            "verdicts": [
+              {
+                "edge": {
+                  "from": "VDD_CORE",
+                  "to": "VDD_IO",
+                  "kind": "requires-good-before-enable",
+                  "maxDelay": null
+                },
+                "verdict": "violated",
+                "at": 3.9999999999999996E-05,
+                "reason": "VDD_IO enabled 3.9999999999999996E-05s before VDD_CORE was good"
+              },
+              {
+                "edge": {
+                  "from": "VDD_IO",
+                  "to": "VDD_AUX",
+                  "kind": "requires-good-before-enable",
+                  "maxDelay": null
+                },
+                "verdict": "satisfied",
+                "at": 0.00011999999999999999,
+                "reason": "VDD_IO good 7.999999999999999E-05s before VDD_AUX enable"
+              },
+              {
+                "edge": {
+                  "from": "VDD_AUX",
+                  "to": "VDD_CORE",
+                  "kind": "requires-good-before-enable",
+                  "maxDelay": null
+                },
+                "verdict": "violated",
+                "at": 7.999999999999999E-05,
+                "reason": "VDD_CORE enabled 3.9999999999999996E-05s before VDD_AUX was good"
+              },
+              {
+                "edge": {
+                  "from": "PG_CORE",
+                  "to": "EN_IO",
+                  "kind": "requires-good-before-enable",
+                  "maxDelay": null
+                },
+                "verdict": "ambiguous",
+                "at": 4.9999999999999996E-05,
+                "reason": "simultaneous arrival within tolerance 1.1E-05s; order undecidable"
+              }
+            ],
+            "cycles": {
+              "minimalEdgeSets": [
+                [
+                  {
+                    "from": "VDD_CORE",
+                    "to": "VDD_IO",
+                    "kind": "requires-good-before-enable",
+                    "maxDelay": null
+                  }
+                ],
+                [
+                  {
+                    "from": "VDD_IO",
+                    "to": "VDD_AUX",
+                    "kind": "requires-good-before-enable",
+                    "maxDelay": null
+                  }
+                ],
+                [
+                  {
+                    "from": "VDD_AUX",
+                    "to": "VDD_CORE",
+                    "kind": "requires-good-before-enable",
+                    "maxDelay": null
+                  }
+                ]
+              ],
+              "reason": "3 minimal conflicting edge sets of size 1; all kept as candidates"
+            },
+            "diagnostics": [],
+            "id": "res-graph-a609656315714c63",
+            "kind": "graph-analysis",
+            "rail": null,
+            "status": "current"
+          },
+          {
+            "algoVersion": "seq-analyzer/1.1.0",
+            "paramFingerprint": "1e9e0a3305f4ac9087673c18f77fa975777d5a381351a53453314c493b859e38",
+            "sources": [
+              {
+                "kind": "waveform",
+                "id": "wf-85b9a49112f8",
+                "version": 2
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-f06f612e31f5",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-e16bb635ab4d",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-db03922a6d4e",
+                "version": 1
+              },
+              {
+                "kind": "waveform",
+                "id": "wf-b7b1b56ce5d4",
+                "version": 1
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_CORE",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_IO",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:VDD_AUX",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:EN_IO",
+                "version": 2
+              },
+              {
+                "kind": "constraints",
+                "id": "cs-seq:PG_CORE",
+                "version": 2
+              }
+            ],
+            "violation": {
+              "at": 3.9999999999999996E-05,
+              "kind": "excursion",
+              "description": "VDD_IO spike violation: duration 7E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "evidenceResultId": "res-rail-a48c0f185fab23d8",
+              "sources": [
+                {
+                  "kind": "waveform",
+                  "id": "wf-f06f612e31f5",
+                  "version": 1
+                },
+                {
+                  "kind": "constraints",
+                  "id": "cs-seq:VDD_IO",
+                  "version": 2
+                }
+              ]
+            },
+            "considered": [
+              "VDD_CORE spike violation: duration 0.0007s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s",
+              "VDD_IO spike violation: duration 7E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "VDD_IO spike violation: duration 7.999999999999999E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "VDD_IO dip violation: duration 4.9999999999999996E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "VDD_IO spike violation: duration 5.000000000000002E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "VDD_IO dip violation: duration 9.999999999999999E-05s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "VDD_IO spike violation: duration 0.00043999999999999996s - timing error 1.05E-05s \u003E= min stable 1.4999999999999999E-05s",
+              "VDD_AUX spike violation: duration 0.0007s - timing error 1.05E-05s \u003E= min stable 4.9999999999999996E-05s",
+              "edge VDD_CORE-\u003EVDD_IO violated: VDD_IO enabled 3.9999999999999996E-05s before VDD_CORE was good",
+              "edge VDD_AUX-\u003EVDD_CORE violated: VDD_CORE enabled 3.9999999999999996E-05s before VDD_AUX was good",
+              "shutdown must be reverse of startup; position 0: expected VDD_AUX, got VDD_IO"
+            ],
+            "id": "res-first-c8c3a858d3eac561",
+            "kind": "first-violation",
+            "rail": null,
+            "status": "current"
+          }
+        ]
+      },
+      "createdUtc": "2026-09-01T09:08:00.0000000\u002B00:00"
+    },
+    {
+      "seq": 16,
+      "id": "ev-000016",
+      "type": "decision.made",
+      "payload": {
+        "id": "dec-adb92d56583b",
+        "target": "res-rail-531b9649bd6fb44e",
+        "action": "reject",
+        "rationale": "reviewer-B: under v2 min-stable 15us the dip is a violation",
+        "conflictsWith": [
+          "dec-5713fddc5572"
+        ]
+      },
+      "createdUtc": "2026-09-01T09:09:00.0000000\u002B00:00"
+    }
+  ]
+}
