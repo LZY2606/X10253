@@ -1,0 +1,13 @@
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/obj/Debug/net10.0/PowerSeq.Core.csproj.AssemblyReference.cache
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/obj/Debug/net10.0/PowerSeq.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/obj/Debug/net10.0/PowerSeq.Core.AssemblyInfoInputs.cache
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/obj/Debug/net10.0/PowerSeq.Core.AssemblyInfo.cs
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/obj/Debug/net10.0/PowerSeq.Core.csproj.CoreCompileInputs.cache
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/obj/Debug/net10.0/PowerSeq.Core.sourcelink.json
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/bin/Debug/net10.0/PowerSeq.Core.deps.json
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/bin/Debug/net10.0/PowerSeq.Core.dll
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/bin/Debug/net10.0/PowerSeq.Core.pdb
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/obj/Debug/net10.0/PowerSeq.Core.dll
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/obj/Debug/net10.0/refint/PowerSeq.Core.dll
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/obj/Debug/net10.0/PowerSeq.Core.pdb
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1224/runs/B/work/src/PowerSeq.Core/obj/Debug/net10.0/ref/PowerSeq.Core.dll

@@ -1,0 +1,963 @@
+{
+  "format": "powerseq-casepack/1",
+  "id": "power-sequencing-evidence-room",
+  "title": "电源次序证据室：轨压窗口、依赖约束与启动反例",
+  "clock": {
+    "nominalPeriodNs": 1000,
+    "gapFactor": 2.5,
+    "simultaneityWindowNs": 1500,
+    "measurementErrorV": 0.02
+  },
+  "thresholds": {
+    "setId": "timing-constraints",
+    "rails": [
+      {
+        "rail": "VDD_CORE",
+        "riseThresholdV": 0.85,
+        "fallThresholdV": 0.75,
+        "minStableNs": 3000
+      },
+      {
+        "rail": "VDD_IO",
+        "riseThresholdV": 1.65,
+        "fallThresholdV": 1.5,
+        "minStableNs": 3000
+      },
+      {
+        "rail": "VDD_DDR",
+        "riseThresholdV": 1.1,
+        "fallThresholdV": 1.0,
+        "minStableNs": 3000
+      }
+    ]
+  },
+  "dependencies": [
+    {
+      "fromRail": "VDD_CORE",
+      "toRail": "VDD_IO"
+    },
+    {
+      "fromRail": "VDD_IO",
+      "toRail": "VDD_DDR"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "cap-core-001",
+      "name": "VDD_CORE 轨压采样 (CH1)",
+      "kind": "railVoltage",
+      "rail": "VDD_CORE",
+      "samples": [
+        {
+          "t": "0",
+          "v": "0.00",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "1000",
+          "v": "0.10",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "2000",
+          "v": "0.30",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "3000",
+          "v": "0.55",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "4000",
+          "v": "0.75",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "5000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "6000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "7000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "8000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "9000",
+          "v": "0.80",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "10000",
+          "v": "0.84",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "11000",
+          "v": "0.78",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "12000",
+          "v": "0.83",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "13000",
+          "v": "0.70",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "14000",
+          "v": "0.72",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "15000",
+          "v": "0.88",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "16000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "17000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "18000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "19000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "20000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "21000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "22000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "23000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "24000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "25000",
+          "v": "0.60",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "26000",
+          "v": "0.50",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "27000",
+          "v": "0.40",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "28000",
+          "v": "0.30",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "29000",
+          "v": "0.20",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "30000",
+          "v": "0.10",
+          "tUnit": "ns",
+          "vUnit": "V"
+        }
+      ]
+    },
+    {
+      "sourceId": "cap-io-001",
+      "name": "VDD_IO 轨压采样 (CH2, us 时基)",
+      "kind": "railVoltage",
+      "rail": "VDD_IO",
+      "samples": [
+        {
+          "t": "0.000",
+          "v": "0.0",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.001",
+          "v": "0.0",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.002",
+          "v": "0.0",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.003",
+          "v": "0.0",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.004",
+          "v": "0.0",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.005",
+          "v": "0.1",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.006",
+          "v": "0.4",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.007",
+          "v": "0.9",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.008",
+          "v": "1.3",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.009",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.010",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.011",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.012",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.013",
+          "v": "1.55",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.014",
+          "v": "1.62",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.015",
+          "v": "1.52",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.016",
+          "v": "1.63",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.017",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.018",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.019",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.020",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.021",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.022",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.023",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.024",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.025",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.026",
+          "v": "1.7",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.027",
+          "v": "1.4",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.028",
+          "v": "1.3",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.029",
+          "v": "1.2",
+          "tUnit": "us",
+          "vUnit": "V"
+        },
+        {
+          "t": "0.030",
+          "v": "1.1",
+          "tUnit": "us",
+          "vUnit": "V"
+        }
+      ]
+    },
+    {
+      "sourceId": "cap-ddr-001",
+      "name": "VDD_DDR 轨压采样 (CH3, 含时钟缺口)",
+      "kind": "railVoltage",
+      "rail": "VDD_DDR",
+      "samples": [
+        {
+          "t": "0",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "1000",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "2000",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "3000",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "4000",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "5000",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "6000",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "7000",
+          "v": "0.1",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "8000",
+          "v": "0.2",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "9000",
+          "v": "0.6",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "10000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "11000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "12000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "13000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "14000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "20000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "21000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "22000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "23000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "24000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "25000",
+          "v": "0.80",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "26000",
+          "v": "0.70",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "27000",
+          "v": "0.60",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "28000",
+          "v": "0.40",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "29000",
+          "v": "0.20",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "30000",
+          "v": "0.10",
+          "tUnit": "ns",
+          "vUnit": "V"
+        }
+      ]
+    },
+    {
+      "sourceId": "sig-en-001",
+      "name": "EN_ALL 使能信号",
+      "kind": "enableSignal",
+      "rail": "EN",
+      "samples": [
+        {
+          "t": "0",
+          "v": "0",
+          "tUnit": "ns",
+          "vUnit": "mV"
+        },
+        {
+          "t": "2000",
+          "v": "3300",
+          "tUnit": "ns",
+          "vUnit": "mV"
+        },
+        {
+          "t": "27000",
+          "v": "3300",
+          "tUnit": "ns",
+          "vUnit": "mV"
+        },
+        {
+          "t": "28000",
+          "v": "0",
+          "tUnit": "ns",
+          "vUnit": "mV"
+        }
+      ]
+    },
+    {
+      "sourceId": "sig-pg-001",
+      "name": "PG_IO 电源良好信号",
+      "kind": "goodSignal",
+      "rail": "VDD_IO",
+      "samples": [
+        {
+          "t": "0",
+          "v": "0",
+          "tUnit": "ns",
+          "vUnit": "mV"
+        },
+        {
+          "t": "12000",
+          "v": "1800",
+          "tUnit": "ns",
+          "vUnit": "mV"
+        },
+        {
+          "t": "26000",
+          "v": "1800",
+          "tUnit": "ns",
+          "vUnit": "mV"
+        },
+        {
+          "t": "27000",
+          "v": "0",
+          "tUnit": "ns",
+          "vUnit": "mV"
+        },
+        {
+          "t": "n/a",
+          "v": "1800",
+          "tUnit": "ns",
+          "vUnit": "mV"
+        }
+      ]
+    }
+  ],
+  "script": [
+    {
+      "op": "fork-thresholds",
+      "actor": "li.wei",
+      "note": "参数修订 v2：VDD_CORE 上升阈值 0.85→0.88V（仅 CORE 受影响，检验局部过期）",
+      "rails": [
+        {
+          "rail": "VDD_CORE",
+          "riseThresholdV": 0.88,
+          "fallThresholdV": 0.75,
+          "minStableNs": 3000
+        },
+        {
+          "rail": "VDD_IO",
+          "riseThresholdV": 1.65,
+          "fallThresholdV": 1.5,
+          "minStableNs": 3000
+        },
+        {
+          "rail": "VDD_DDR",
+          "riseThresholdV": 1.1,
+          "fallThresholdV": 1.0,
+          "minStableNs": 3000
+        }
+      ]
+    },
+    {
+      "op": "revise-source",
+      "actor": "chen.fang",
+      "sourceId": "cap-ddr-001",
+      "note": "源数据修订：补采 DDR 时钟缺口（仅 DDR 及其下游派生过期）",
+      "samples": [
+        {
+          "t": "0",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "1000",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "2000",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "3000",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "4000",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "5000",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "6000",
+          "v": "0.0",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "7000",
+          "v": "0.1",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "8000",
+          "v": "0.2",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "9000",
+          "v": "0.6",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "10000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "11000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "12000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "13000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "14000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "15000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "16000",
+          "v": "1.14",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "17000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "18000",
+          "v": "1.16",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "19000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "20000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "21000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "22000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "23000",
+          "v": "1.15",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "24000",
+          "v": "0.90",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "25000",
+          "v": "0.80",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "26000",
+          "v": "0.70",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "27000",
+          "v": "0.60",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "28000",
+          "v": "0.40",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "29000",
+          "v": "0.20",
+          "tUnit": "ns",
+          "vUnit": "V"
+        },
+        {
+          "t": "30000",
+          "v": "0.10",
+          "tUnit": "ns",
+          "vUnit": "V"
+        }
+      ]
+    },
+    {
+      "op": "revise-dependencies",
+      "actor": "li.wei",
+      "note": "依赖修订：补录 DDR→CORE 约束，形成循环依赖以检验最小矛盾边集",
+      "edges": [
+        {
+          "fromRail": "VDD_CORE",
+          "toRail": "VDD_IO"
+        },
+        {
+          "fromRail": "VDD_IO",
+          "toRail": "VDD_DDR"
+        },
+        {
+          "fromRail": "VDD_DDR",
+          "toRail": "VDD_CORE"
+        }
+      ]
+    },
+    {
+      "op": "decide",
+      "actor": "li.wei",
+      "candidateKind": "simultaneous-arrival",
+      "edge": "VDD_IO->VDD_DDR",
+      "verdict": "accept",
+      "rationale": "两轨同源于 EN_ALL 释放，1500ns 同时到达窗口内可接受"
+    },
+    {
+      "op": "decide",
+      "actor": "chen.fang",
+      "candidateKind": "simultaneous-arrival",
+      "edge": "VDD_IO->VDD_DDR",
+      "verdict": "reject",
+      "rationale": "同时到达违反 IO→DDR 依赖意图，应视为违规"
+    },
+    {
+      "op": "resolve-conflict",
+      "actor": "wang.ming",
+      "candidateKind": "simultaneous-arrival",
+      "edge": "VDD_IO->VDD_DDR",
+      "chosen": 0,
+      "rationale": "复核原始波形确认两轨同一使能，采纳 li.wei 的接受裁定"
+    },
+    {
+      "op": "revert-decision",
+      "actor": "chen.fang",
+      "rationale": "接受仲裁结果，撤回此前的反对裁定"
+    },
+    {
+      "op": "fork-thresholds",
+      "actor": "chen.fang",
+      "parent": "1",
+      "note": "第二分支 v3（自 v1 分叉）：仅放宽 VDD_IO 下降阈值 1.50→1.45V，检验滞回与下降阈值",
+      "rails": [
+        {
+          "rail": "VDD_CORE",
+          "riseThresholdV": 0.85,
+          "fallThresholdV": 0.75,
+          "minStableNs": 3000
+        },
+        {
+          "rail": "VDD_IO",
+          "riseThresholdV": 1.65,
+          "fallThresholdV": 1.45,
+          "minStableNs": 3000
+        },
+        {
+          "rail": "VDD_DDR",
+          "riseThresholdV": 1.1,
+          "fallThresholdV": 1.0,
+          "minStableNs": 3000
+        }
+      ]
+    }
+  ]
+}
