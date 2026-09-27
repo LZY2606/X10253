@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PowerSequencing.Core/PowerSequencing.Core.csproj" />
+  <Project Path="PowerSequencing.Tests/PowerSequencing.Tests.csproj" />
+  <Project Path="PowerSequencing.Web/PowerSequencing.Web.csproj" />
+</Solution>
