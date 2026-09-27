@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PowerEvidence/PowerEvidence.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PowerEvidence.Tests/PowerEvidence.Tests.csproj" />
+  </Folder>
+</Solution>
