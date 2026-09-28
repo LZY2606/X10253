@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PowerEvidence.Tests/PowerEvidence.Tests.csproj" />
+  <Project Path="PowerEvidence.Web/PowerEvidence.Web.csproj" />
+</Solution>
